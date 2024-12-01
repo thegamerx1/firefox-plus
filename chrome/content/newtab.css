@@ -3,7 +3,7 @@
 url-prefix("about:home"),
 url-prefix("about:firefoxview") {
   :root:not([lwt-newtab], [lwt-newtab-brighttext]) {
-    --newtab-background-color: #F7F7F7 !important;
+    --newtab-background-color: #181a1b !important;
     --newtab-background-color-secondary: #fff !important;
     --newtab-text-primary-color: #252525 !important;
     --newtab-primary-action-background: #0078D4 !important;
